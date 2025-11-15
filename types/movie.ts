@@ -4,10 +4,10 @@ export interface Movie {
   poster_path?: string | null;
   backdrop_path?: string | null;
   overview?: string;
-  release_date?: string;
+  release_date?: Date;
 }
 
 export interface MovieDetail extends Movie {
   genres?: { id: number; name: string }[];
-  runtime?: number;
+  runtime?: ;
 }
