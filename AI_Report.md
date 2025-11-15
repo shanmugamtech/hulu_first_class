@@ -8,5 +8,5 @@
 - **Prompts / examples used**
   - "Create a Next.js 14 App Router TypeScript HeroBanner component using Next/Image with fill and priority"
   - "Write a server-side helper to fetch TMDB popular movies using process.env.TMDB_API_KEY"
-- **GitHub repo:** `<paste repo URL here>`
+- **GitHub repo:** `https://github.com/shanmugamtech/hulu_first_class`
 - **Vercel URL:** `<paste deployed URL here>`
