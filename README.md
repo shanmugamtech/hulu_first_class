@@ -16,3 +16,14 @@
 ## Deploy
 - Push to GitHub then import to Vercel.
 - Add `TMDB_API_KEY` in Vercel Environment Variables.
+
+## Output Page Dispaly
+**Home Page**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb81edfe-93be-433d-8ef7-c4a1e16f8c46" />
+
+**Movies Category**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e51079d-53fd-4538-a30b-85de1dc6acd7" />
+
+**Movie details**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/890a4599-2f4c-476f-91d2-aadb224a6741" />
+
